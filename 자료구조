@@ -21,7 +21,7 @@ fork한 저장소는 원본(다른 사람의 github repository)와 연결되어 
 
 2. 리스트(List)
 배열이랑 비슷한데, 좀 더 유연함.
-연결 리스트(Linked List)
+연결 리스트(Linked List)/배열 리스크(array List)
 줄줄이 사탕처럼 연결된 구조
 장점: 삽입/삭제가 쉬움
 단점: 인덱스로 바로 접근 못 함 (하나하나 따라가야 함)-hard
